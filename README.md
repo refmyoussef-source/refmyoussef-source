@@ -26,8 +26,5 @@ With a strong foundation in microbiology, I build reproducible, automated pipeli
 
 ---
 
-## 📫 Let's Connect!
-* 💼 LinkedIn: [Your-LinkedIn-URL-Here]
-* 📧 Email: [Your-Email-Here]
 
 *📊 "Turning complex bacterial sequencing noise into meaningful biological signals."*

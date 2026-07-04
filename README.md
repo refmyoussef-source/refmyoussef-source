@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Youssef! 👋 
 
-<!--
-**refmyoussef-source/refmyoussef-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧬 Microbiologist & Pathogen Bioinformatician
 
-Here are some ideas to get you started:
+I bridge the gap between **Wet-Lab Microbiology** and **Computational Data Science**. My work focuses on leveraging genomic, transcriptomic, and metagenomic data to decode bacterial behavior, antibiotic resistance mechanisms (AMR), and microbial ecosystems. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With a strong foundation in microbiology, I build reproducible, automated pipelines to transform raw sequencing reads into actionable biological insights.
+
+---
+
+## 🛠️ Technical Toolbox
+
+* **Languages:** Python (Pandas, NumPy, Scikit-learn), R (Bioconductor), Bash/Linux Shell, Markdown
+* **Transcriptomics (RNA-Seq):** Single-cell RNA-Seq (`Scanpy`, `Seurat`), Bulk RNA-Seq, Pseudo-bulk, Differential Gene Expression (`DESeq2`)
+* **Genomics & AMR:** Variant Calling (`GATK`, `BWA`), Genome Assembly (`SPAdes`), Pangenomics (`Roary`), Functional Annotation (`Prokka`)
+* **Metagenomics & Microbiome:** 16S rRNA Profiling (`QIIME 2`), Shotgun Metagenomics, Microbial Dysbiosis Analysis
+* **Workflow Automation & DevOps:** `Snakemake` (High-Throughput Pipelines), `Docker` (Containerization), Git/GitHub
+
+---
+
+## 🔬 Core Portfolio Highlights
+* 🦠 **Bacterial scRNA-Seq:** Unveiled rare cell states and prophage induction in *B. subtilis* using unsupervised clustering (microSPLiT dataset).
+* 💊 **AMR Genomic Epidemiology:** Built an automated `Snakemake` pipeline to track SNPs and resistance profiles across 96 MDR *P. aeruginosa* clinical strains.
+* 🧪 **Host-Pathogen Transcriptomics:** Profiled *M. tuberculosis* and *K. pneumoniae* core gene networks under heavy antibiotic stress.
+* 📊 **Microbiome Data Science:** Implemented high-throughput metagenomics workflows to detect gut microbiome shifts in Crohn's Disease and Type 2 Diabetes.
+
+---
+
+## 📫 Let's Connect!
+* 💼 LinkedIn: [Your-LinkedIn-URL-Here]
+* 📧 Email: [Your-Email-Here]
+
+*📊 "Turning complex bacterial sequencing noise into meaningful biological signals."*
